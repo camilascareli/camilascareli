@@ -2,12 +2,13 @@
 📒 I'm a Software Engineering student at the University of Brasília (UnB)! <br>
 <i>Estudante de Engenharia de Software na Universidade de Brasília (UnB)!</i> <br>
 
-👩‍💼 Areas of interest: project management, frontend and UX Designer <br>
-<i>Áreas de interesse: gestão de projetos, frontend e UX Designer</i> <br>
+👩‍💼 Areas of interest: project management, IA and full stack <br>
+<i>Áreas de interesse: gestão de projetos, inteligência artificial e full stack</i> <br>
 
 💻 
-Apesar de ter tido pouco contato com computadores na infância, minha paixão pela tecnologia hoje é completamente impulsionada pela minha curiosidade. Essa jornada reflete não apenas uma paixão, mas também uma busca constante por inovação e transformação neste mundo tech! <br>
-<i>Despite having had little contact with computers as a child, my passion for technology today is complete, driven by my curiosity. This journey reflects not only a passion, but also a constant search for innovation and transformation in this tech world!</i> 
+Despite having had little contact with computers as a child, my passion for technology today is complete, driven by my curiosity. This journey reflects not only a passion, but also a constant search for innovation and transformation in this tech world!
+<br>
+<i>Apesar de ter tido pouco contato com computadores na infância, minha paixão pela tecnologia hoje é completamente impulsionada pela minha curiosidade. Essa jornada reflete não apenas uma paixão, mas também uma busca constante por inovação e transformação neste mundo tech! </i> 
 <br>
 <div> 
   <a href = "https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=camilacareli.engsoftware@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
