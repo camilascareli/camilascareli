@@ -3,7 +3,7 @@
 <i>Estudante de Engenharia de Software na Universidade de Brasília (UnB)!</i> <br>
 
 👩‍💼 Areas of interest: project management, IA and full stack <br>
-<i>Áreas de interesse: gestão de projetos, inteligência artificial e full stack</i> <br>
+<i>Áreas de interesse: gestão de projetos, inteligência artificial e desenvolvimento</i> <br>
 
 💻 
 Despite having had little contact with computers as a child, my passion for technology today is complete, driven by my curiosity. This journey reflects not only a passion, but also a constant search for innovation and transformation in this tech world!
