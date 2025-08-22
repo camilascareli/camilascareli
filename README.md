@@ -2,7 +2,7 @@
 📒 I'm a Software Engineering student at the University of Brasília (UnB)! <br>
 <i>Estudante de Engenharia de Software na Universidade de Brasília (UnB)!</i> <br>
 
-👩‍💼 Areas of interest: project management, IA and full stack <br>
+👩‍💼 Areas of interest: project owner, IA and developer <br>
 <i>Áreas de interesse: gestão de projetos, inteligência artificial e desenvolvimento</i> <br>
 
 💻 
